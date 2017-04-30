@@ -1,0 +1,11 @@
+bin\Debug\AsyncClient.exe
+bin\Debug\AsyncClient.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AsyncClient.Form1.resources
+obj\Debug\AsyncClient.csproj.GenerateResource.Cache
+obj\Debug\AsyncClient.exe
+obj\Debug\AsyncClient.pdb
+obj\Debug\AsyncClient.Properties.Resources.resources
+obj\Debug\AsyncClient.Form2.resources
+obj\Debug\AsyncClient.Form3.resources
+obj\Debug\AsyncClient.Form4.resources

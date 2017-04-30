@@ -1,0 +1,79 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Draw
+{
+   public  class Assume_path
+    {
+        public position p1 = new position();
+      public   List<position> MyPath = new List<position>();
+        public Assume_path() {
+            //position(x,y,z);
+            MyPath.Add(new position(-2.25f, 1.5f, 0));
+            MyPath.Add(new position(-1.8f, 1.5f, 0));
+            MyPath.Add(new position(-1.35f, 1.5f, 0));
+          MyPath.Add(new position(-0.9f, 1.5f, 0));
+          MyPath.Add(new position(-0.45f, 1.5f, 0));
+          MyPath.Add(new position(0.0f, 1.5f, 0));
+          MyPath.Add(new position(0.45f, 1.5f, 0));
+          MyPath.Add(new position(0.9f, 1.5f, 0));
+          MyPath.Add(new position(1.35f, 1.5f, 0));
+          MyPath.Add(new position(1.8f, 1.5f, 0));
+          MyPath.Add(new position(2.25f,1.5f, 0));
+            //8 right
+          MyPath.Add(new position(2.7f, 1.05f, 0));
+          MyPath.Add(new position(2.25f, 1.05f, 0));
+          MyPath.Add(new position(1.8f, 1.05f, 0));
+          MyPath.Add(new position(1.35f, 1.05f, 0));
+          MyPath.Add(new position(0.9f, 1.05f, 0));
+          MyPath.Add(new position(0.45f, 1.05f, 0));
+          MyPath.Add(new position(0.0f, 1.05f, 0));
+          MyPath.Add(new position(-0.45f, 1.05f, 0));
+          MyPath.Add(new position(-0.9f, 1.05f, 0));
+          MyPath.Add(new position(-1.35f, 1.05f, 0));
+          MyPath.Add(new position(-1.8f, 1.05f, 0));
+          MyPath.Add(new position(-2.25f, 1.05f, 0));
+            //////
+          MyPath.Add(new position(-2.25f, 0.6f, 0));
+          MyPath.Add(new position(-1.8f, 0.6f, 0));
+          MyPath.Add(new position(-1.35f, 0.6f, 0));
+          MyPath.Add(new position(-0.9f, 0.6f, 0));
+          MyPath.Add(new position(-0.45f, 0.6f, 0));
+          MyPath.Add(new position(0.0f, 0.6f, 0));
+          MyPath.Add(new position(0.45f, 0.6f, 0));
+          MyPath.Add(new position(0.9f, 0.6f, 0));
+          MyPath.Add(new position(1.35f, 0.6f, 0));
+          MyPath.Add(new position(1.8f, 0.6f, 0));
+          MyPath.Add(new position(2.25f, 0.6f, 0));
+            /////
+          MyPath.Add(new position(2.7f, 0.15f, 0));
+          MyPath.Add(new position(2.25f, 0.15f, 0));
+          MyPath.Add(new position(1.8f, 0.15f, 0));
+          MyPath.Add(new position(1.35f, 0.15f, 0));
+          MyPath.Add(new position(0.9f, 0.15f, 0));
+          MyPath.Add(new position(0.45f, 0.15f, 0));
+          MyPath.Add(new position(0.0f, 0.15f, 0));
+          MyPath.Add(new position(-0.45f, 0.15f, 0));
+          MyPath.Add(new position(-0.9f, 0.15f, 0));
+          MyPath.Add(new position(-1.35f, 0.15f, 0));
+          MyPath.Add(new position(-1.8f, 0.15f, 0));
+          MyPath.Add(new position(-2.25f, 0.15f, 0));
+            ////
+          MyPath.Add(new position(-2.25f, -0.3f, 0));
+          MyPath.Add(new position(-1.8f, -0.3f, 0));
+          MyPath.Add(new position(-1.35f, -0.3f, 0));
+          MyPath.Add(new position(-0.9f, -0.3f, 0));
+          MyPath.Add(new position(-0.45f, -0.3f, 0));
+          MyPath.Add(new position(0.0f, -0.3f, 0));
+          MyPath.Add(new position(0.45f, -0.3f, 0));
+          MyPath.Add(new position(0.9f, -0.3f, 0));
+          MyPath.Add(new position(1.35f, -0.3f, 0));
+          MyPath.Add(new position(1.8f, -0.3f, 0));
+          MyPath.Add(new position(2.25f, -0.3f, 0));
+          //MyPath.Add(new position(2.6f, 0.6f, 0));
+         // MyPath.Add(new position(2.6f, 0.15f, 0));
+          //MyPath.Add(new position(2.6f, -0.3f, 0));
+        }
+    }
+}

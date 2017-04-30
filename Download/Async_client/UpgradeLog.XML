@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AsyncClient">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\All Users\Documents\Download\Async_client\AsyncClient.sln">
+</Property><Property Name="Date" Value="Thursday, July 03, 2008">
+</Property><Property Name="Time" Value="12:14 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AsyncClient.sln" Description="File successfully backed up as C:\Documents and Settings\All Users\Documents\Download\Async_client\Backup\AsyncClient.sln">
+</Event><Event ErrorLevel="0" Project="AsyncClient" Source="AsyncClient.csproj" Description="Project file successfully backed up as C:\Documents and Settings\All Users\Documents\Download\Async_client\Backup\AsyncClient.csproj">
+</Event><Event ErrorLevel="0" Project="AsyncClient" Source="AsyncClient.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\All Users\Documents\Download\Async_client\Backup\AsyncClient.csproj.user">
+</Event><Event ErrorLevel="0" Project="AsyncClient" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\All Users\Documents\Download\Async_client\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AsyncClient" Source="AsyncClient.cs" Description="File successfully backed up as C:\Documents and Settings\All Users\Documents\Download\Async_client\Backup\AsyncClient.cs">
+</Event><Event ErrorLevel="0" Project="AsyncClient" Source="App.ico" Description="File successfully backed up as C:\Documents and Settings\All Users\Documents\Download\Async_client\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="AsyncClient" Source="AsyncClient.resx" Description="File successfully backed up as C:\Documents and Settings\All Users\Documents\Download\Async_client\Backup\AsyncClient.resx">
+</Event><Event ErrorLevel="0" Project="AsyncClient" Source="AsyncClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AsyncClient" Source="AsyncClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AsyncClient.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AsyncClient.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AsyncClient" Source="AsyncClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

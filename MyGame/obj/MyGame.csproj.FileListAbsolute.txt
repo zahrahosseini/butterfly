@@ -1,0 +1,120 @@
+D:\opengl\gle\lesson07\lesson07\bin\Debug\lesson07.exe
+D:\opengl\gle\lesson07\lesson07\bin\Debug\lesson07.pdb
+D:\opengl\gle\lesson07\lesson07\bin\Debug\csgl.dll
+D:\opengl\gle\lesson07\lesson07\obj\Debug\ResolveAssemblyReference.cache
+D:\opengl\gle\lesson07\lesson07\obj\Debug\MyGame.MainForm.resources
+D:\opengl\gle\lesson07\lesson07\obj\Debug\MyGame.csproj.GenerateResource.Cache
+D:\opengl\gle\lesson07\lesson07\obj\Debug\lesson07.exe
+D:\opengl\gle\lesson07\lesson07\obj\Debug\lesson07.pdb
+D:\opengl\gle\lesson07\MyGame\obj\Debug\lesson07.exe
+D:\opengl\gle\lesson07\MyGame\obj\Debug\lesson07.pdb
+D:\opengl\gle\lesson07\MyGame\bin\Debug\lesson07.exe
+D:\opengl\gle\lesson07\MyGame\bin\Debug\lesson07.pdb
+D:\opengl\gle\lesson07\MyGame\bin\Debug\csgl.dll
+D:\opengl\gle\lesson07\MyGame\obj\Debug\ResolveAssemblyReference.cache
+D:\opengl\gle\lesson07\MyGame\obj\Debug\MyGame.MainForm.resources
+D:\opengl\gle\lesson07\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+D:\opengl\gle\lesson07\MyGame\obj\Debug\Draw.Properties.Resources.resources
+D:\opengl\gle\lesson07\MyGame\obj\Debug\Draw.Start.resources
+D:\opengl\gle\lesson07\MyGame\obj\Debug\Draw.Instruction_info.resources
+D:\opengl\gle\lesson07\MyGame\obj\Debug\Draw.Option_info.resources
+D:\opengl\gle\lesson07\MyGame\obj\Debug\Draw.Select_Game_Mode.resources
+D:\opengl\gle\lesson07\MyGame\obj\Debug\Draw.Draw_path.resources
+D:\opengl\MyGame\bin\Debug\csgl.dll
+D:\opengl\MyGame\obj\Debug\ResolveAssemblyReference.cache
+D:\opengl\MyGame\obj\Debug\Draw.Draw_path.resources
+D:\opengl\MyGame\obj\Debug\Draw.Instruction_info.resources
+D:\opengl\MyGame\obj\Debug\Draw.Option_info.resources
+D:\opengl\MyGame\obj\Debug\Draw.Properties.Resources.resources
+D:\opengl\MyGame\obj\Debug\MyGame.MainForm.resources
+D:\opengl\MyGame\obj\Debug\Draw.Select_Game_Mode.resources
+D:\opengl\MyGame\obj\Debug\Draw.Start.resources
+D:\opengl\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+D:\opengl\MyGame\bin\Debug\MyGame.exe
+D:\opengl\MyGame\bin\Debug\MyGame.pdb
+D:\opengl\MyGame\obj\Debug\MyGame.exe
+D:\opengl\MyGame\obj\Debug\MyGame.pdb
+D:\opengl\open  GL\MyGame\obj\Debug\MyGame.exe
+D:\opengl\open  GL\MyGame\obj\Debug\MyGame.pdb
+D:\opengl\open  GL\MyGame\bin\Debug\MyGame.exe
+D:\opengl\open  GL\MyGame\bin\Debug\MyGame.pdb
+D:\opengl\open  GL\MyGame\bin\Debug\csgl.dll
+D:\opengl\open  GL\MyGame\obj\Debug\ResolveAssemblyReference.cache
+D:\opengl\open  GL\MyGame\obj\Debug\Draw.Draw_path.resources
+D:\opengl\open  GL\MyGame\obj\Debug\Draw.Instruction_info.resources
+D:\opengl\open  GL\MyGame\obj\Debug\Draw.Option_info.resources
+D:\opengl\open  GL\MyGame\obj\Debug\Draw.Properties.Resources.resources
+D:\opengl\open  GL\MyGame\obj\Debug\MyGame.MainForm.resources
+D:\opengl\open  GL\MyGame\obj\Debug\Draw.Select_Game_Mode.resources
+D:\opengl\open  GL\MyGame\obj\Debug\Draw.Start.resources
+D:\opengl\open  GL\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+G:\nG\MyGame\obj\Debug\MyGame.exe
+G:\nG\MyGame\obj\Debug\MyGame.pdb
+G:\nG\MyGame\bin\Debug\MyGame.exe
+G:\nG\MyGame\bin\Debug\MyGame.pdb
+G:\nG\MyGame\bin\Debug\csgl.dll
+G:\nG\MyGame\obj\Debug\ResolveAssemblyReference.cache
+G:\nG\MyGame\obj\Debug\Draw.Draw_path.resources
+G:\nG\MyGame\obj\Debug\Draw.Instruction_info.resources
+G:\nG\MyGame\obj\Debug\Draw.Option_info.resources
+G:\nG\MyGame\obj\Debug\Draw.Properties.Resources.resources
+G:\nG\MyGame\obj\Debug\MyGame.MainForm.resources
+G:\nG\MyGame\obj\Debug\Draw.Select_Game_Mode.resources
+G:\nG\MyGame\obj\Debug\Draw.Start.resources
+G:\nG\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+I:\nG\MyGame\obj\Debug\MyGame.exe
+I:\nG\MyGame\obj\Debug\MyGame.pdb
+I:\nG\MyGame\bin\Debug\MyGame.exe
+I:\nG\MyGame\bin\Debug\MyGame.pdb
+I:\nG\MyGame\bin\Debug\csgl.dll
+I:\nG\MyGame\obj\Debug\ResolveAssemblyReference.cache
+I:\nG\MyGame\obj\Debug\Draw.Draw_path.resources
+I:\nG\MyGame\obj\Debug\Draw.Instruction_info.resources
+I:\nG\MyGame\obj\Debug\Draw.Option_info.resources
+I:\nG\MyGame\obj\Debug\Draw.Properties.Resources.resources
+I:\nG\MyGame\obj\Debug\MyGame.MainForm.resources
+I:\nG\MyGame\obj\Debug\Draw.Select_Game_Mode.resources
+I:\nG\MyGame\obj\Debug\Draw.Start.resources
+I:\nG\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+G:\MyGame\obj\Debug\MyGame.exe
+G:\MyGame\obj\Debug\MyGame.pdb
+G:\MyGame\bin\Debug\MyGame.exe
+G:\MyGame\bin\Debug\MyGame.pdb
+G:\MyGame\bin\Debug\csgl.dll
+G:\MyGame\obj\Debug\ResolveAssemblyReference.cache
+G:\MyGame\obj\Debug\Draw.Draw_path.resources
+G:\MyGame\obj\Debug\Draw.Instruction_info.resources
+G:\MyGame\obj\Debug\Draw.Option_info.resources
+G:\MyGame\obj\Debug\Draw.Properties.Resources.resources
+G:\MyGame\obj\Debug\MyGame.MainForm.resources
+G:\MyGame\obj\Debug\Draw.Select_Game_Mode.resources
+G:\MyGame\obj\Debug\Draw.Start.resources
+G:\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+I:\MyGame\obj\Debug\MyGame.exe
+I:\MyGame\obj\Debug\MyGame.pdb
+I:\MyGame\bin\Debug\MyGame.exe
+I:\MyGame\bin\Debug\MyGame.pdb
+I:\MyGame\bin\Debug\csgl.dll
+I:\MyGame\obj\Debug\ResolveAssemblyReference.cache
+I:\MyGame\obj\Debug\Draw.Draw_path.resources
+I:\MyGame\obj\Debug\Draw.Instruction_info.resources
+I:\MyGame\obj\Debug\Draw.Option_info.resources
+I:\MyGame\obj\Debug\Draw.Properties.Resources.resources
+I:\MyGame\obj\Debug\MyGame.MainForm.resources
+I:\MyGame\obj\Debug\Draw.Select_Game_Mode.resources
+I:\MyGame\obj\Debug\Draw.Start.resources
+I:\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+F:\MyGame\obj\Debug\MyGame.exe
+F:\MyGame\obj\Debug\MyGame.pdb
+F:\MyGame\bin\Debug\MyGame.exe
+F:\MyGame\bin\Debug\MyGame.pdb
+F:\MyGame\bin\Debug\csgl.dll
+F:\MyGame\obj\Debug\ResolveAssemblyReference.cache
+F:\MyGame\obj\Debug\Draw.Draw_path.resources
+F:\MyGame\obj\Debug\Draw.Instruction_info.resources
+F:\MyGame\obj\Debug\Draw.Option_info.resources
+F:\MyGame\obj\Debug\Draw.Properties.Resources.resources
+F:\MyGame\obj\Debug\MyGame.MainForm.resources
+F:\MyGame\obj\Debug\Draw.Select_Game_Mode.resources
+F:\MyGame\obj\Debug\Draw.Start.resources
+F:\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache

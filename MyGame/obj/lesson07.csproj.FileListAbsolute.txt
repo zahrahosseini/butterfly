@@ -1,0 +1,8 @@
+D:\opengl\gle\lesson07\lesson07\obj\Debug\lesson07.exe
+D:\opengl\gle\lesson07\lesson07\obj\Debug\ResolveAssemblyReference.cache
+D:\opengl\gle\lesson07\lesson07\obj\Debug\lesson07.csproj.GenerateResource.Cache
+D:\opengl\gle\lesson07\lesson07\bin\Debug\lesson07.exe
+D:\opengl\gle\lesson07\lesson07\bin\Debug\lesson07.pdb
+D:\opengl\gle\lesson07\lesson07\bin\Debug\csgl.dll
+D:\opengl\gle\lesson07\lesson07\obj\Debug\lesson07.pdb
+D:\opengl\gle\lesson07\lesson07\obj\Debug\MyGame.MainForm.resources

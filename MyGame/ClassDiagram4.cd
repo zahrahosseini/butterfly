@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Draw.Assume_path" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Assume path.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.Box" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Box.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.butterfly" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>butterfly.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.color" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>color.cs</FileName>
+      <HashCode>EAAAAAAAAAAAEAAAAAIAAAAAAAAAAAAAIAAAAAAAEgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.Disc" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Disc.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAACAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.Draw_path" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Draw path.cs</FileName>
+      <HashCode>AAAAAAAAACAAAQIAAACAAAACAAEAAAAAgADoAABAQCA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.draw" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>draw.cs</FileName>
+      <HashCode>BQIAESAAABSDhQCAJQggMkJNAEKAAAggtBgFGSAhAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.Instruction_info" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Instruction info.cs</FileName>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAIAAAAAEAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.List_My_Ball" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>List My Ball.cs</FileName>
+      <HashCode>AAAAEAAAAAABAAAAAAAAAAIAAAAAACAgIAABAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.List_My_Path" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>List My Path.cs</FileName>
+      <HashCode>AAAAAAAAAAABAAAEBAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.LoadTextures" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>LoadTextures.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.My_Pic" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>My Pic.cs</FileName>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.My_time" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>My time.cs</FileName>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAACAAABAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.Option_info" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Option info.cs</FileName>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAAEgAAgEAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.position" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>position.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAQAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.Savemytime" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Savemytime.cs</FileName>
+      <HashCode>AQAAIAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.Select_Game_Mode" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Select Game Mode.cs</FileName>
+      <HashCode>AAAAABAAACAAAAAAAACAAAACAAA4AAAAAFAAAQBAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.Sphere" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Sphere.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAACAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.Squre" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Squre.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.Start" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Start.cs</FileName>
+      <HashCode>AAQAAAAAACAEAAAAAACAAAACAMA5IAAAAHACCAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.Tball" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Tball.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.Two_time" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Two time.cs</FileName>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw.Properties.Resources" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIgAAAAAAAAAAAAABAJEAAAAQAEAAAAAAACAAAAAII=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

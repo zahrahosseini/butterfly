@@ -1,0 +1,19 @@
+C:\Users\Zahra\Downloads\Desktop\Download\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Zahra\Downloads\Desktop\Download\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Zahra\Downloads\Desktop\Download\SocketServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zahra\Downloads\Desktop\Download\SocketServer\obj\Debug\SocketServer.Form1.resources
+C:\Users\Zahra\Downloads\Desktop\Download\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+C:\Users\Zahra\Downloads\Desktop\Download\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\Zahra\Downloads\Desktop\Download\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\Zahra\Downloads\Desktop\Download\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+F:\New Folder (6)\Download1\SocketServer\obj\Debug\SocketServer.exe
+F:\New Folder (6)\Download1\SocketServer\obj\Debug\SocketServer.pdb
+F:\New Folder (6)\Download1\SocketServer\bin\Debug\SocketServer.exe
+F:\New Folder (6)\Download1\SocketServer\bin\Debug\SocketServer.pdb
+F:\New Folder (6)\Download1\SocketServer\obj\Debug\ResolveAssemblyReference.cache
+F:\New Folder (6)\Download1\SocketServer\obj\Debug\SocketServer.Form2.resources
+F:\New Folder (6)\Download1\SocketServer\obj\Debug\SocketServer.Form3.resources
+F:\New Folder (6)\Download1\SocketServer\obj\Debug\SocketServer.Form4.resources
+F:\New Folder (6)\Download1\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+F:\New Folder (6)\Download1\SocketServer\obj\Debug\SocketServer.Form1.resources
+F:\New Folder (6)\Download1\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache

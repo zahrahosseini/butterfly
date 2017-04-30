@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="lesson07">
+</Property><Property Name="Solution File" Value="C:\Users\Zahra\Downloads\Desktop\gle\lesson07\lesson07\lesson07.sln">
+</Property><Property Name="Date" Value="Thursday, May 29, 2008">
+</Property><Property Name="Time" Value="7:01 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="lesson07.sln" Description="File successfully backed up as C:\Users\Zahra\Downloads\Desktop\gle\lesson07\lesson07\Backup\lesson07.sln">
+</Event><Event ErrorLevel="0" Project="lesson07" Source="lesson07.csproj" Description="Project file successfully backed up as C:\Users\Zahra\Downloads\Desktop\gle\lesson07\lesson07\Backup\lesson07.csproj">
+</Event><Event ErrorLevel="0" Project="lesson07" Source="lesson07.cs" Description="File successfully backed up as C:\Users\Zahra\Downloads\Desktop\gle\lesson07\lesson07\Backup\lesson07.cs">
+</Event><Event ErrorLevel="0" Project="lesson07" Source="lesson07.resx" Description="File successfully backed up as C:\Users\Zahra\Downloads\Desktop\gle\lesson07\lesson07\Backup\lesson07.resx">
+</Event><Event ErrorLevel="0" Project="lesson07" Source="lesson07.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="lesson07" Source="lesson07.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="lesson07.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="lesson07.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="lesson07" Source="lesson07.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
